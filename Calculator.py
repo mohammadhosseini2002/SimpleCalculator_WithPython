@@ -25,6 +25,7 @@ if User_Operator == "*":
     Multiplication_SUM = Multiplication_First_Number * Multiplication_Second_Number
     print("Multiplication Result --> " , Multiplication_SUM)
 
+#if for Division
 if User_Operator == "/":
     Division_First_Number = int(input("Enter your First Number (Division /) --> "))
     Division_Second_Number = int(input("Enter your Second Number (Division /) --> "))

@@ -9,6 +9,8 @@ if User_Operator == "+":
     Plus_SUM = Plus_First_Number + Plus_Second_Number
     print("Plus Result --> " , Plus_SUM)
 
+
+#if for Minus
 if User_Operator == "-":
     Minus_First_Number = int(input("Enter your First Number (Minus -) --> "))
     Minus_Second_Number = int(input("Enter your Second Number (Minus -) --> "))

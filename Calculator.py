@@ -17,6 +17,8 @@ if User_Operator == "-":
     Minus_SUM = Minus_First_Number - Minus_Second_Number
     print("Minus Result --> " , Minus_SUM)
 
+
+#if for Multiplication
 if User_Operator == "*":
     Multiplication_First_Number = int(input("Enter your First Number (Multiplication *) --> "))
     Multiplication_Second_Number = int(input("Enter your Second Number (Multiplication *) --> "))

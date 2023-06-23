@@ -19,3 +19,9 @@ if User_Operator == "*":
     Multiplication_Second_Number = int(input("Enter your Second Number (Multiplication *) --> "))
     Multiplication_SUM = Multiplication_First_Number * Multiplication_Second_Number
     print("Multiplication Result --> " , Multiplication_SUM)
+
+if User_Operator == "/":
+    Division_First_Number = int(input("Enter your First Number (Division /) --> "))
+    Division_Second_Number = int(input("Enter your Second Number (Division /) --> "))
+    Division_SUM = Division_First_Number / Division_Second_Number
+    print("Division Result --> " , Division_SUM)

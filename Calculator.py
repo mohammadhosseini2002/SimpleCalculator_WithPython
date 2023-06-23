@@ -2,6 +2,7 @@
 
 User_Operator = input("Enter your Operator (+, -, *, /) --> ")
 
+#if for Plus
 if User_Operator == "+":
     Plus_First_Number = int(input("Enter your First Number (Plus +) --> "))
     Plus_Second_Number = int(input("Enter your Second Number (Plus +) --> "))
